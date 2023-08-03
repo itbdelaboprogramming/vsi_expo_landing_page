@@ -1,0 +1,74 @@
+#GlobalHeader{
+    width: 100%;
+    height: 80px;
+    background-color: #ffffff;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    color: #e8e8e8;
+  }
+  
+  .headerWidth{
+    width: 100%;
+    height: 100%;
+    max-width: 900px;
+    margin: auto;
+  position: relative;
+  }
+  
+  
+  .logos {
+  position: absolute;
+  top: 10%;
+  left: 10%; 
+   width: 100%;
+   max-width: 220px;
+  }
+    
+  
+ .logos img{
+    width: 100%;
+    height: 100%;
+}
+
+
+  .menu{
+  position: absolute;
+  top: 41%;
+  right: 5%; 
+  }
+
+
+.menu .headerList li{
+ display: inline-block;
+ margin: 5px;
+
+}
+
+a{
+  text-decoration: none;
+ color: #000000;
+}
+
+.menu a{
+  position: relative;
+  display: inline-block;
+  transition: .3s;
+}
+
+.menu a::after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  content: '';
+  width: 0;
+  height: 2px;
+  background-color: #C70025;
+  transition: .3s;
+  transform: translateX(-50%);
+}
+
+.menu a:hover::after{
+  width: 100%;
+}

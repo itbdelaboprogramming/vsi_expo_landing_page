@@ -1,0 +1,349 @@
+
+
+.MSD700{
+ position: relative;
+width: 100%;
+max-width: 1250px;
+margin:auto;
+height: 100vw;
+max-height: 600px;
+
+}
+
+
+
+.MSD700 img {
+	width: 100%;
+	height: 100%;
+transition: all 0.3s;
+
+  }
+.MSD700 .sizeofcontent {
+	width: 100%;
+	max-width: 918px;
+	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+.MSD700 h1{
+  position: absolute;
+  top: 5%;
+  left: 1%;
+
+  font-size: 32px;
+}
+
+.MSD700 h2{
+  position: absolute;
+  top: 12%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.MSD700 .ytube iframe {
+    position: absolute;
+    top: 38%;
+    left: 1%;
+    width: 40%;
+    min-width: 250px;
+    height: 33%;
+  }
+
+.MSD700 .ytube a{
+    position: absolute;
+    top: 38%;
+    left: 1%;
+    width: 40%;
+    min-width: 250px;
+    height: 33%;
+
+  }
+
+.MSD700 .video h5{
+  position: absolute;
+  top: 25%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.MSD700 .cata h5{
+  position: absolute;
+  top: 72%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+
+.MSD700 .download a{
+  position: absolute;
+  top: 85%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.MSD700 .pic{
+  position: absolute;
+  top: 7%;
+  left: 45%;
+  width: 55%;
+  height: 42%;
+
+}
+
+.MSD700 .pics{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 55%;
+  height: 12%;
+background-color:#333333;
+	text-align: center;
+
+}
+
+.MSD700 .pics .pics1{
+  position: absolute;
+	margin: 2px;
+	width: 25%;
+
+}
+
+.MSD700 .pics .pics1 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.MSD700 .pics .pics2{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	left: 25%;
+}
+
+.MSD700 .pics .pics2 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.MSD700 .pics .pics3{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	left: 50%;
+}
+
+.MSD700 .pics .pics3 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.MSD700 .pics .pics4{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	  left: 75%;
+}
+
+.MSD700 .pics .pics4 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.MSD700 .pics .img{
+	width: 100%;
+	height: 100%;
+
+}
+
+
+.MSD700 .spec h5{
+  position: absolute;
+  top: 60%;
+  left: 45%;
+
+  font-size: 20px;
+}
+
+.MSD700 .specimg .img{
+ 	width: 100%;
+	height: 100%;
+}
+
+.MSD700 .specimg{
+  position: absolute;
+  top: 72%;
+  left: 45%;
+  width: 55%;
+  height: 25%;
+}
+
+.MSD700 .caution p{
+  position: absolute;
+  top: 88%;
+  left: 45%;
+
+  font-size: 12px;
+}
+
+
+
+/*スマホ用css*/
+
+
+
+
+.MSD700sp{
+ position: relative;
+width: 100%;
+margin:auto;
+height: 500vw;
+min-height: 1800px;
+
+}
+
+
+
+.MSD700sp img {
+	width: 100%;
+	height: 100%;
+
+  }
+
+.MSD700sp h1{
+  position: absolute;
+  top: -0.5%;
+  left: 3%;
+
+  font-size: 30px;
+}
+
+.MSD700sp h2{
+  position: absolute;
+  top: 2%;
+  left: 3%;
+
+  font-size: 16px;
+}
+
+
+
+.MSD700sp .ytube iframe {
+  position: absolute;
+  top: 7.5%;
+  width: 94%;
+  height: 15%;
+  left: 3%;
+
+  }
+
+
+.MSD700sp .video h5{
+  position: absolute;
+  top: 4%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.MSD700sp .cata h5{
+  position: absolute;
+  top: 22%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+
+.MSD700sp .download a{
+  position: absolute;
+  top: 26%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.MSD700sp .pic{
+  position: absolute;
+  top: 30%;
+    width: 94%;
+    height: 11%;
+    left: 3%;
+}
+
+
+.MSD700sp .pics{
+  position: absolute;
+  top: 46%;
+  left: 2%;
+  width: 96%;
+  height: 43%;
+background-color:#333333;
+	text-align: center;
+
+}
+
+.MSD700sp .pics .pics1{
+  position: absolute;
+	top: 1%;	
+	width: 98%;
+  	left: 1%;
+max-height: 24%;
+}
+
+.MSD700sp .pics .pics2{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 25.5%;
+max-height: 24%;
+}
+
+.MSD700sp .pics .pics3{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 50%;
+max-height: 24%;
+}
+
+.MSD700sp .pics .pics4{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 74.5%;
+max-height: 24%;
+}
+.MSD700sp .pics .img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.MSD700sp .spec h5{
+  position: absolute;
+  top: 88%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.MSD700sp .specimg{
+  position: absolute;
+  top: 92%;
+  left: 3%;
+  width: 94%;
+}
+
+.MSD700sp .caution p{
+  position: absolute;
+  top: 75%;
+  left: 3%;
+
+  font-size: 12px;
+}

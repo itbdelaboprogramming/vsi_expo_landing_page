@@ -1,0 +1,348 @@
+
+
+.NE200HBJ{
+ position: relative;
+width: 100%;
+max-width: 1250px;
+margin:auto;
+height: 100vw;
+max-height: 600px;
+
+}
+
+
+
+.NE200HBJ img {
+	width: 100%;
+	height: 100%;
+transition: all 0.3s;
+
+  }
+.NE200HBJ .sizeofcontent {
+	width: 100%;
+	max-width: 918px;
+	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+.NE200HBJ h1{
+  position: absolute;
+  top: 5%;
+  left: 1%;
+
+  font-size: 32px;
+}
+
+.NE200HBJ h2{
+  position: absolute;
+  top: 12%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.NE200HBJ .ytube iframe {
+    position: absolute;
+    top: 38%;
+    left: 1%;
+    width: 40%;
+    min-width: 250px;
+    height: 33%;
+  }
+
+.NE200HBJ .ytube a{
+    position: absolute;
+    top: 38%;
+    left: 1%;
+    width: 40%;
+    min-width: 250px;
+    height: 33%;
+
+  }
+
+.NE200HBJ .video h5{
+  position: absolute;
+  top: 25%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.NE200HBJ .cata h5{
+  position: absolute;
+  top: 72%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+
+.NE200HBJ .download a{
+  position: absolute;
+  top: 85%;
+  left: 1%;
+
+  font-size: 20px;
+}
+
+.NE200HBJ .pic{
+  position: absolute;
+  top: 7%;
+  left: 45%;
+  width: 55%;
+  height: 42%;
+
+}
+
+.NE200HBJ .pics{
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 55%;
+  height: 12%;
+background-color:#333333;
+	text-align: center;
+
+}
+
+.NE200HBJ .pics .pics1{
+  position: absolute;
+	margin: 2px;
+	width: 25%;
+
+}
+
+.NE200HBJ .pics .pics1 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.NE200HBJ .pics .pics2{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	left: 25%;
+}
+
+.NE200HBJ .pics .pics2 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.NE200HBJ .pics .pics3{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	left: 50%;
+}
+
+.NE200HBJ .pics .pics3 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.NE200HBJ .pics .pics4{
+ position: absolute;
+	margin: 2px;
+	width: 25%;
+	  left: 75%;
+}
+
+.NE200HBJ .pics .pics4 img:hover{
+  transform:scale(1.2,1.2);
+}
+
+.NE200HBJ .pics .img{
+	width: 100%;
+	height: 100%;
+
+}
+
+
+.NE200HBJ .spec h5{
+  position: absolute;
+  top: 60%;
+  left: 45%;
+
+  font-size: 20px;
+}
+
+.NE200HBJ .specimg .img{
+ 	width: 100%;
+	height: 100%;
+}
+
+.NE200HBJ .specimg{
+  position: absolute;
+  top: 72%;
+  left: 45%;
+  width: 55%;
+  height: 25%;
+}
+.NE200HBJ .caution p{
+  position: absolute;
+  top: 88%;
+  left: 45%;
+
+  font-size: 12px;
+}
+
+
+
+/*スマホ用css*/
+
+
+
+
+.NE200HBJsp{
+ position: relative;
+width: 100%;
+margin:auto;
+height: 500vw;
+min-height: 1800px;
+
+}
+
+
+
+.NE200HBJsp img {
+	width: 100%;
+	height: 100%;
+
+  }
+
+.NE200HBJsp h1{
+  position: absolute;
+  top: -0.5%;
+  left: 3%;
+
+  font-size: 30px;
+}
+
+.NE200HBJsp h2{
+  position: absolute;
+  top: 2%;
+  left: 3%;
+
+  font-size: 16px;
+}
+
+
+
+.NE200HBJsp .ytube iframe {
+  position: absolute;
+  top: 7.5%;
+  width: 94%;
+  height: 15%;
+  left: 3%;
+
+  }
+
+
+.NE200HBJsp .video h5{
+  position: absolute;
+  top: 4%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.NE200HBJsp .cata h5{
+  position: absolute;
+  top: 22%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+
+.NE200HBJsp .download a{
+  position: absolute;
+  top: 26%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.NE200HBJsp .pic{
+  position: absolute;
+  top: 30%;
+    width: 94%;
+    height: 11%;
+    left: 3%;
+}
+
+
+.NE200HBJsp .pics{
+  position: absolute;
+  top: 42%;
+  left: 2%;
+  width: 96%;
+  height: 43%;
+background-color:#333333;
+	text-align: center;
+
+}
+
+.NE200HBJsp .pics .pics1{
+  position: absolute;
+	top: 1%;	
+	width: 98%;
+  	left: 1%;
+max-height: 24%;
+}
+
+.NE200HBJsp .pics .pics2{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 25.5%;
+max-height: 24%;
+}
+.NE200HBJsp .pics .pics3{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 50%;
+max-height: 24%;
+}
+
+.NE200HBJsp .pics .pics4{
+ position: absolute;
+	
+	width: 98%;
+  	left: 1%;
+	top: 74.5%;
+max-height: 24%;
+}
+
+.NE200HBJsp .pics .img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.NE200HBJsp .spec h5{
+  position: absolute;
+  top: 85%;
+  left: 3%;
+
+  font-size: 20px;
+}
+
+.NE200HBJsp .specimg{
+  position: absolute;
+  top: 88%;
+  left: 3%;
+  width: 94%;
+}
+
+.NE200HBJsp .caution p{
+  position: absolute;
+  top: 75%;
+  left: 3%;
+
+  font-size: 12px;
+}
