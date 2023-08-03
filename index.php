@@ -99,7 +99,7 @@
 					  ■...........</p></div>
 				</div>
 			</div> -->
-			
+
 			<!-- ----------------class="NE100JB pc" end---------------------- -->
 
 			<div class="mkspace"></div>
@@ -190,7 +190,8 @@
 
 
 		<div class="Productmenusp sp">
-			<div class="NE100JBsp" id="NE100HBJsp">
+	
+		<!-- <div class="NE100JBsp" id="NE100HBJsp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>N-ePower</h1>
 				<h2>多用途給電機<br>
@@ -218,13 +219,14 @@
 					<h5>仕様表</h5>
 				</div>
 				<div class="specimg"><img src="./img/NePowerスペック表.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
+				---<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
 					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>---
 
 
-			</div><!------------------class="NE100JB sp" end------------------------>
-			<div class="mkspace"></div>
+			</div> -->
+			<!------------------class="NE100JB sp" end------------------------>
+			<!-- <div class="mkspace"></div> -->
 
 			<div class="NE200HBJsp" id="NE200HBJsp">
 				<img src="./img/machine_background_smartphone.png" />
@@ -311,11 +313,12 @@
 <div id="live">
 	<div class="live2 id=" live">
 		<img src="./img/live_background.png" />
-		<h1>Live配信</h1>
+		<h1>Questionnaires</h1>
 		<div class="textplace"><span>環境展は終了しました<!---------------2022NEW環境展、5月25日(水)～27日(金)東京ビックサイトで開催<br>中山鉄工所展示ブース映像をストリーミング配信します。<br>
 360度映像で会場をあらゆる角度でご覧いただけます。---------></span></div>
 
 		<div class="ylive">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIxT3Hn6IBthKaZnMoHey2NEgIfxDTI0JKKOiN0YhedghiDA/viewform?embedded=true" width="640" height="558" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 			<!--------------<img width="560" height="315" src="./img/配信停止中.jpg" >--------->
 			<!---------------<iframe width="560" height="315" src="https://www.youtube.com/embed/JAfuDUNYjkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<a href="https://youtu.be/JAfuDUNYjkQ" data-lity></a>-------------------->
