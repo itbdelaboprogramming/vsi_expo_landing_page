@@ -314,8 +314,8 @@
 	<div class="live2 id=" live">
 		<img src="./img/live_background.png" />
 		<h1>Questionnaires</h1>
-		<div class="textplace"><span>環境展は終了しました<!---------------2022NEW環境展、5月25日(水)～27日(金)東京ビックサイトで開催<br>中山鉄工所展示ブース映像をストリーミング配信します。<br>
-360度映像で会場をあらゆる角度でご覧いただけます。---------></span></div>
+<!-- 		<div class="textplace"><span>環境展は終了しました<!---------------2022NEW環境展、5月25日(水)～27日(金)東京ビックサイトで開催<br>中山鉄工所展示ブース映像をストリーミング配信します。<br>
+360度映像で会場をあらゆる角度でご覧いただけます。---------></span></div> -->
 
 		<div class="ylive">
 			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIxT3Hn6IBthKaZnMoHey2NEgIfxDTI0JKKOiN0YhedghiDA/viewform?embedded=true" width="640" height="558" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
