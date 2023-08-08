@@ -66,7 +66,7 @@
   position: absolute;
   top: 25%;
   left: 1%;
-
+  text-decoration: underline;
   font-size: 20px;
 }
 
@@ -74,7 +74,8 @@
   position: absolute;
   top: 72%;
   left: 1%;
-
+  background-color: #ffcc00;
+  /* text-decoration: underline; */
   font-size: 20px;
 }
 
@@ -243,7 +244,7 @@
   position: absolute;
   top: 4%;
   left: 3%;
-
+  text-decoration: underline;
   font-size: 20px;
 }
 
@@ -251,7 +252,8 @@
   position: absolute;
   top: 22%;
   left: 3%;
-
+  background-color: #ffcc00;
+  /* text-decoration: underline; */
   font-size: 20px;
 }
 

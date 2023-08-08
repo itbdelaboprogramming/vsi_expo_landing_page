@@ -157,10 +157,10 @@ hr {
 
 .live2 .ylive {
   position: absolute;
-  top: 60%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 96%;
+  width: 100%;
   min-width: 350px;
   max-width: 710px;
   height: 65%;
