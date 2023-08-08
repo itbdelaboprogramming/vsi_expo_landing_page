@@ -1,108 +1,113 @@
-body{
-    font-family: YakuHanJP, YuGothic, "Yu Gothic", Meiryo, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    margin: 0;
-    line-height: 1.5;
-    color: #222831;
-    background-color: #fff;
-    margin: 80px 0 0 0;
-  }
-  
-  .index{
+body {
+  font-family: YakuHanJP, YuGothic, "Yu Gothic", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  line-height: 1.5;
+  color: #222831;
+  background-color: #fff;
+  margin: 80px 0 0 0;
+}
 
+.index {
+
+  width: 100%;
+}
+
+.index .indextext {
+  text-align: right;
+  color: #ffc93c;
+  font-size: 50px;
+  margin: auto;
+  padding-top: 350px;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.section {
+  margin: 10px auto 0 auto;
+  padding: 20px 15px 20px 15px;
+  max-width: 1000px;
+}
+
+.section a {
+  color: #30475e;
+  text-decoration: none;
+  transition: .4s;
+}
+
+.section a:hover {
+  color: #ffc93c;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 930px) {
+  .section {
+    margin: 80px 15px 0 15px;
+  }
+}
+
+.andMore {
+  text-align: center;
+}
+
+.andMore a {
+  font-size: 1.8rem;
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #30475e;
+  border: solid 2px #30475e;
+  border-radius: 3px;
+  transition: .4s;
+  margin: 20px;
+}
+
+.andMore a:hover {
+  background-color: #30475e;
+  color: #FFF;
+}
+
+.textp {
+  margin: 2px 0 50px 0;
+}
+
+.list {
+  list-style-type: none;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: solid 3px #ffc93c;
+  border-radius: 3px;
+}
+
+@media screen and (max-width: 500px) {
+  .DispImg img {
     width: 100%;
   }
-  
-  .index .indextext{
-    text-align: right;
-    color: #ffc93c;
-    font-size: 50px;
-    margin:auto;
-    padding-top: 350px;
-    max-width: 1000px;
-    width: 100%;
+}
+
+@media screen and (min-width: 501px) {
+  .DispImg img {
+    width: 450px;
   }
-  
-  .section{
-    margin: 10px auto 0 auto;
-    padding: 20px 15px 20px 15px;
-    max-width: 1000px;
-  }
-  
-  .section a{
-    color: #30475e;
-    text-decoration: none;
-    transition: .4s;
-  }
-  .section a:hover{
-    color: #ffc93c;
-    text-decoration: none;
-  }
-  
-  @media screen and (max-width: 930px){
-    .section{
-      margin: 80px 15px 0 15px;
-    }
-  }
-  
-  .andMore{
-    text-align: center;
-  }
-  .andMore a{
-    font-size: 1.8rem;
-    display: inline-block;
-    padding: 0.3em 1em;
-    text-decoration: none;
-    color: #30475e;
-    border: solid 2px #30475e;
-    border-radius: 3px;
-    transition: .4s;
-    margin: 20px;
-  }
-  
-  .andMore a:hover{
-    background-color: #30475e;
-    color: #FFF;
-  }
-  
-  .textp{
-    margin: 2px 0 50px 0;
-  }
-  
-  .list{
-    list-style-type: none;
-    margin-left: 20px;
-    padding-left: 20px;
-    border-left: solid 3px #ffc93c;
-    border-radius: 3px;
-  }
-  
-  @media screen and (max-width: 500px){
-    .DispImg img{
-      width: 100%;
-    }
-  }
-  @media screen and (min-width: 501px){
-    .DispImg img{
-      width: 450px;
-    }
-  }
-  .DispImg{
-    display: inline-block;
-    text-align: center;
-  }
-  
-  a .fa-twitter{
-    color: #1DA1F2;
-  }
-  
-  a .fa-youtube-play{
-    color: #FF0000;
-  }
-  a .fa-instagram {
-    color:#fff;
-    background:radial-gradient(at 30% 120%,rgb(255, 239, 208), #f15a4d 25%, #f13f79 55%, #7e09b8 100%) no-repeat;
-    padding:0 2px 1px 2px;
-    border-radius:30%;
-  }
+}
+
+.DispImg {
+  display: inline-block;
+  text-align: center;
+}
+
+a .fa-twitter {
+  color: #1DA1F2;
+}
+
+a .fa-youtube-play {
+  color: #FF0000;
+}
+
+a .fa-instagram {
+  color: #fff;
+  background: radial-gradient(at 30% 120%, rgb(255, 239, 208), #f15a4d 25%, #f13f79 55%, #7e09b8 100%) no-repeat;
+  padding: 0 2px 1px 2px;
+  border-radius: 30%;
+}

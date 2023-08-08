@@ -1,9 +1,9 @@
-.ProductList{
- position: relative;
-text-align: center;
+.ProductList {
+  position: relative;
+  text-align: center;
 }
 
-.ProductList .ProductList2{
+.ProductList .ProductList2 {
   position: relative;
   margin: auto;
   width: 100%;
@@ -12,188 +12,189 @@ text-align: center;
   text-align: center;
 }
 
-.line-vertical1{
+.line-vertical1 {
   position: absolute;
   margin: 0;
   width: 1px;
-    top: 35px;
-    height: 80px;
+  top: 35px;
+  height: 80px;
   background-color: black;
-left: 24.9%;
+  left: 24.9%;
 }
 
-.line-vertical2{
+.line-vertical2 {
   position: absolute;
   margin: 0;
   width: 1px;
-    top: 35px;
-    height: 80px;
+  top: 35px;
+  height: 80px;
   background-color: black;
   left: 50%;
 }
 
-.line-vertical3{
+.line-vertical3 {
   position: absolute;
   margin: 0;
   width: 1px;
-    top: 35px;
-    height: 80px;
+  top: 35px;
+  height: 80px;
   background-color: black;
   left: 75%;
 }
 
 
-.ProductList .ProductList2 .list1{
+.ProductList .ProductList2 .list1 {
   position: absolute;
-	margin: 2px;
-	width: 24.5%;
-        top: 15%;
-    transition:background-color 0.2s;
-    padding: 15px 0;
+  margin: 2px;
+  width: 24.5%;
+  top: 15%;
+  transition: background-color 0.2s;
+  padding: 15px 0;
 }
 
 .ProductList .ProductList2 .list1:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
-.ProductList .ProductList2 .list2{
- position: absolute;
-	margin: 2px;
-	width: 24.5%;
-	left: 25%;
-        top: 15%;
-    transition:background-color 0.2s;
-    padding: 15px 0;
+.ProductList .ProductList2 .list2 {
+  position: absolute;
+  margin: 2px;
+  width: 24.5%;
+  left: 25%;
+  top: 15%;
+  transition: background-color 0.2s;
+  padding: 15px 0;
 }
 
 .ProductList .ProductList2 .list2:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
-.ProductList .ProductList2 .list3{
- position: absolute;
-	margin: 2px;
-	width: 24.5%;
-	left: 50%;
-        top: 15%;
-    transition:background-color 0.2s;
-    padding: 15px 0;
+.ProductList .ProductList2 .list3 {
+  position: absolute;
+  margin: 2px;
+  width: 24.5%;
+  left: 50%;
+  top: 15%;
+  transition: background-color 0.2s;
+  padding: 15px 0;
 }
 
 .ProductList .ProductList2 .list3:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 
-.ProductList .ProductList2 .list4{
- position: absolute;
-	margin: 2px;
-	width: 24.5%;
-	  left: 75%;
-        top: 15%;
-    transition:background-color 0.2s;
-    padding: 15px 0;
+.ProductList .ProductList2 .list4 {
+  position: absolute;
+  margin: 2px;
+  width: 24.5%;
+  left: 75%;
+  top: 15%;
+  transition: background-color 0.2s;
+  padding: 15px 0;
 }
 
 .ProductList .ProductList2 .list4:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 
-.ProductList .ProductList2{
-	font-size: clamp(10px, 1.8vw, 16px);
+.ProductList .ProductList2 {
+  font-size: clamp(10px, 1.8vw, 16px);
 
-	color: #000000;
+  color: #000000;
 }
 
-.ProductList .ProductList2 span{
-	font-size: 32px;
+.ProductList .ProductList2 span {
+  font-size: 32px;
 
-	color: #000000;
+  color: #000000;
 }
 
 
-.ProductList .ProductList2{
-	text-align: center;
+.ProductList .ProductList2 {
+  text-align: center;
 }
 
 
 .ProductListsp .ProductListsp2 .list1sp {
-	width: 100%;
-	max-height: 90px; 
- 
-   transition:background-color 0.2s;
-    margin: 0.5px auto;
-  }
+  width: 100%;
+  max-height: 90px;
+
+  transition: background-color 0.2s;
+  margin: 0.5px auto;
+}
 
 .ProductListsp .ProductListsp2 .list1sp:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 .ProductListsp .ProductListsp2 .list1sp .list1sptext {
-	width: 100%;
-    max-width: 500px;
-    margin: auto;
-  }
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
 
 .ProductListsp .ProductListsp2 .list2sp {
-	width: 100%;
-	max-height: 90px; 
+  width: 100%;
+  max-height: 90px;
 
-   transition:background-color 0.2s;
-    margin: 0.75px auto;
-  }
+  transition: background-color 0.2s;
+  margin: 0.75px auto;
+}
 
 .ProductListsp .ProductListsp2 .list2sp:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 .ProductListsp .ProductListsp2 .list2sp .list2sptext {
-	width: 100%;
-    max-width: 500px;
-    margin: auto;
-  }
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
 
 .ProductListsp .ProductListsp2 .list3sp {
-	width: 100%;
-	max-height: 90px; 
+  width: 100%;
+  max-height: 90px;
 
-   transition:background-color 0.2s;
-    margin: 0.5px auto;
-  }
+  transition: background-color 0.2s;
+  margin: 0.5px auto;
+}
 
 .ProductListsp .ProductListsp2 .list3sp:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 .ProductListsp .ProductListsp2 .list3sp .list3sptext {
-	width: 100%;
-    max-width: 500px;
-    margin: auto;
-  }
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
 
 .ProductListsp .ProductListsp2 .list4sp {
-	width: 100%;
-	max-height: 90px; 
+  width: 100%;
+  max-height: 90px;
 
-   transition:background-color 0.2s;
-    margin: 0.5px auto;
-  }
+  transition: background-color 0.2s;
+  margin: 0.5px auto;
+}
 
 .ProductListsp .ProductListsp2 .list4sp:hover {
-    background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 .ProductListsp .ProductListsp2 .list4sp .list4sptext {
-	width: 100%;
-    max-width: 500px;
-    margin: auto;
-  }
-.ProductListsp .ProductListsp2 a{
-
-	font-size: 12px;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
 }
 
-.ProductListsp .ProductListsp2 span{
-	font-size: 24px;
+.ProductListsp .ProductListsp2 a {
+
+  font-size: 12px;
+}
+
+.ProductListsp .ProductListsp2 span {
+  font-size: 24px;
 }
