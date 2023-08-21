@@ -190,7 +190,7 @@
 <!-- <div class="mkspace"></div> -->
 
 <div id="live">
-	<div class="live2 id=" live">
+	<div class="live2" id="live">
 		<img src="./img/live_background.png" />
 		<!-- <h1>Questionnaires</h1> -->
 

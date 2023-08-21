@@ -134,8 +134,12 @@ hr {
   text-decoration: underline;
 }
 
+#live .live2{
+  text-align: center;
+}
+
 #live .live2 img {
-  width: 100%;
+  width: 74%;
   height: 100%;
   min-height: 380px;
 }
