@@ -139,9 +139,12 @@ hr {
 }
 
 #live .live2 img {
-  width: 74%;
-  height: 90%;
-  min-height: 380px;
+  position: relative;
+  width: 100%;
+  max-width: 1250px;
+  margin: auto;
+  height: 100vw;
+  max-height: 600px;
 }
 
 .live2 .textplace {
@@ -161,14 +164,14 @@ hr {
 
 .live2 .ylive {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
   min-width: 350px;
   max-width: 710px;
-  height: 65%;
-  max-height: 400px;
+  height: 90%;
+  max-height: 500px;
 }
 
 .live2 .ylive iframe {
