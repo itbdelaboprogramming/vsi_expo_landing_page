@@ -1,6 +1,43 @@
-#GlobalFooter {
-  color: #000000;
-  background-color: #333333;
-  height: 50px;
-  bottom: 0;
+/* Gaya untuk footer */
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  display: flex; /* Menjadikan elemen-elemen dalam baris horizontal */
+  justify-content: space-around; /* Menyebarkan elemen dengan jarak yang sama */
+  align-items: center; /* Membuat elemen berada pada tengah-tengah vertikal */
+  flex-wrap: wrap; /* Jika konten tidak cukup lebar, pindahkan ke baris baru */
+}
+
+/* Gaya untuk setiap bagian dalam footer */
+footer .footer-section {
+  text-align: center;
+  margin: 10px;
+}
+
+/* Gaya untuk logo perusahaan */
+.company-logos img {
+  max-width: 150px;
+  height: auto;
+}
+
+/* Gaya untuk tautan "Contact Us" */
+.contact-us a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Gaya untuk tautan "Contact Us" saat dihover */
+.contact-us a:hover {
+  text-decoration: underline;
+}
+
+/* Gaya untuk hak cipta */
+.copyright {
+  font-size: 12px;
+}
+
+/* Gaya untuk hak cipta saat dihover */
+.copyright:hover {
+  text-decoration: underline;
 }

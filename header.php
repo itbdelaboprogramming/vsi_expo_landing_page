@@ -1,7 +1,7 @@
 <header id="GlobalHeader">
   <div class="headerWidth">
     <div class="logos">
-      <a href="https://nakayamairon.com/vsi_expo_jakarta/"><span><img src="./img/Nakayama logo_red_500x100.png" /></span></a>
+      <a href="https://nakayamairon.com/vsi_expo_jakarta_2023/"><span><img src="./img/Nakayama logo_red_500x100.png" /></span></a>
     </div>
     <div class="menu pc">
       <ul class="headerList">

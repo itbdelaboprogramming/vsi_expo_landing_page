@@ -115,6 +115,7 @@
   z-index: -1;
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+  background-color: white;
 }
 
 .lity-close {

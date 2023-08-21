@@ -29,7 +29,7 @@
 
 .NE200HBJ h1 {
   position: absolute;
-  top: 5%;
+  /* top: 5%; */
   left: 1%;
 
   font-size: 32px;
@@ -64,7 +64,7 @@
 
 .NE200HBJ .video h5 {
   position: absolute;
-  top: 25%;
+  top: 20%;
   left: 1%;
   /* text-decoration: underline; */
   background-color: #ffcc00;
@@ -91,10 +91,11 @@
 
 .NE200HBJ .pic {
   position: absolute;
-  top: 7%;
+  top: 9%;
   left: 45%;
   width: 55%;
   height: 42%;
+  padding-top: 5vh;
 
 }
 
@@ -162,7 +163,7 @@
 
 .NE200HBJ .spec h5 {
   position: absolute;
-  top: 60%;
+  top: 63%;
   left: 45%;
   background-color: #ffcc00;
   font-size: 20px;
@@ -175,10 +176,14 @@
 
 .NE200HBJ .specimg {
   position: absolute;
-  top: 72%;
+  top: 76%;
   left: 45%;
   width: 55%;
   height: 25%;
+}
+
+.NE200HBJ .specimg img{
+ height: 70% !important;
 }
 
 .NE200HBJ .caution p {
@@ -209,7 +214,7 @@
 
 .NE200HBJsp img {
   width: 100%;
-  height: 100%;
+  height: 92%;
 
 }
 
@@ -243,7 +248,7 @@
 
 .NE200HBJsp .video h5 {
   position: absolute;
-  top: 4%;
+  top: 3%;
   left: 3%;
   /* text-decoration: underline; */
   background-color: #ffcc00;
@@ -340,7 +345,7 @@
 .NE200HBJsp .specimg {
   position: absolute;
   /* top: 88%; */
-  top: 92%;
+  top: 88%;
   left: 3%;
   width: 94%;
 }
