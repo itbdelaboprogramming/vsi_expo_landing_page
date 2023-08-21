@@ -20,6 +20,7 @@
             <li><a href="#MSD700sp">Jaw Crusher HF406</a></li>
             <li><a href="https://www.ncjpn.com/" target="_blank" rel="noopener noreferrer">中山鉄工所HP</a></li>
             <li><a href="#live  ">Questionnaires</a></li>
+            <li><a href="https://www.ncjpn.com/en/contact/" target="_blank">Contact Us</a></li>
             <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfIxT3Hn6IBthKaZnMoHey2NEgIfxDTI0JKKOiN0YhedghiDA/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">Questionnaires</a></li>-- -->
           </ul>
         </li>

@@ -86,7 +86,7 @@
 					<div class="cata">
 						<h5>Catalog Product</h5>
 					</div>
-					<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_VSI.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
+					<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_HF406.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
 					<div class="pic"><img src="./assets/Links/Main Pic.png" /></div>
 					<!-- <div class="pics">
 						<div class="pics1"><img data-lity src="./img/MSD700_blade_03_edit.jpg" /></div>
@@ -123,7 +123,7 @@
 				<div class="cata">
 					<h5>Catalog Product</h5>
 				</div>
-				<div class="download"><a href="https://nakayamairon.com/Exhibition/catalog/NE200HBJ_ja_ver.1.00_20220518.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
+				<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_VSI.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
 				<div class="pic"><img src="./assets/Links/SRユニット04.png" /></div>
 				<div class="pics">
 					<div class="pics1"><img src="./assets/Links/SR09.png" /></div>
@@ -167,7 +167,7 @@
 				<div class="cata">
 					<h5>Catalog Product</h5>
 				</div>
-				<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_VSI.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
+				<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_HF406.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
 				<div class="pic"><img src="./assets/Links/Main Pic.png" /></div>
 				<!-- <div class="pics">
 					<div class="pics1"><img src="./img/MSD700_blade_03_edit.jpg" /></div>

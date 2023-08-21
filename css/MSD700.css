@@ -408,3 +408,9 @@
 
   font-size: 12px;
 } */
+
+@media (max-width: 375px) {
+  .MSD700sp {
+    height: 270vw;
+  }
+}

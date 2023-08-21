@@ -8,7 +8,7 @@
   <div class="address">
     <p>Asahimachi, Takeo City, Saga Pref 843-0001, Japan</p>
   </div>
-  <div class="contact-us"><a href="https://www.ncjpn.com/en/contact/">
+  <div class="contact-us"><a href="https://www.ncjpn.com/en/contact/" target="_blank">
       <p>Contact Us</p>
     </a></div>
   <div class="copyright">

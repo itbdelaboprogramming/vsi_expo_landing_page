@@ -33,11 +33,22 @@ footer .footer-section {
 }
 
 /* Gaya untuk hak cipta */
-.copyright {
+.footer-section {
   font-size: 12px;
 }
 
-/* Gaya untuk hak cipta saat dihover */
-.copyright:hover {
-  text-decoration: underline;
+/* Gaya khusus untuk tata letak vertikal saat ukuran layar kurang dari atau sama dengan 768px */
+@media (max-width: 768px) {
+  footer {
+    flex-direction: column; /* Mengubah tata letak menjadi vertikal */
+    text-align: center;
+  }
+  
+  .company-logos,
+  .company,
+  .address,
+  .contact-us,
+  .copyright {
+    margin: 5px 0; /* Jarak antar elemen vertikal */
+  }
 }
