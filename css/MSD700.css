@@ -235,7 +235,7 @@
   margin: auto;
   height: 500vw;
   min-height: 1800px;
-  margin-top: -20vh !important;
+  margin-top: -18vh !important;
 
 }
 
@@ -243,8 +243,7 @@
 
 .MSD700sp img {
   width: 100%;
-  height: 44%;
-
+  height: 48.5%;
 }
 
 .MSD700sp h1 {
@@ -259,7 +258,6 @@
   position: absolute;
   top: 2%;
   left: 3%;
-
   font-size: 16px;
 }
 
@@ -286,7 +284,7 @@
 
 .MSD700sp .cata h5 {
   position: absolute;
-  top: 13%;
+  top: 35%;
   left: 3%;
   background-color: #ffcc00;
   /* text-decoration: underline; */
@@ -296,9 +294,8 @@
 
 .MSD700sp .download a {
   position: absolute;
-  top: 16%;
+  top: 39%;
   left: 3%;
-
   font-size: 20px;
 }
 
@@ -370,7 +367,7 @@
 
 .MSD700sp .spec h5 {
   position: absolute;
-  top: 35%;
+  top: 41%;
   left: 3%;
   background-color: #ffcc00;
   font-size: 20px;
@@ -378,7 +375,7 @@
 
 .MSD700sp .specimg {
   position: absolute;
-  top: 38%;
+  top: 45%;
   left: 3%;
   width: 94%;
 }
@@ -389,8 +386,6 @@
   left: 3%;
   right: 3%;
   position: absolute;
-
-  
   font-family: 'Yu Gothic';
   font-style: normal;
   color: #1D2538;

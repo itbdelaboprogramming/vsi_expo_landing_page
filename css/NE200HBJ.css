@@ -238,7 +238,7 @@
 
 .NE200HBJsp .ytube iframe {
   position: absolute;
-  top: 7.5%;
+  top: 8%;
   width: 94%;
   height: 15%;
   left: 3%;
@@ -248,7 +248,7 @@
 
 .NE200HBJsp .video h5 {
   position: absolute;
-  top: 3%;
+  top: 4%;
   left: 3%;
   /* text-decoration: underline; */
   background-color: #ffcc00;
@@ -345,7 +345,7 @@
 .NE200HBJsp .specimg {
   position: absolute;
   /* top: 88%; */
-  top: 88%;
+  top: 88.5%;
   left: 3%;
   width: 94%;
 }

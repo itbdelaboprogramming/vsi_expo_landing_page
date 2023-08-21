@@ -139,7 +139,7 @@
 			</div>
 			<!------------------class="VSI Gyropactor sp" end------------------------>
 
-
+			<br>
 			<!------------------class="Jaw Crusher HF406 sp" start------------------------>
 			<div class="MSD700sp" id="MSD700sp">
 				<img src="./img/machine_background_smartphone.png" />
@@ -188,6 +188,7 @@
 </div>
 
 <!-- <div class="mkspace"></div> -->
+<br>
 
 <div id="live">
 	<div class="live2" id="live">
