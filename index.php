@@ -3,14 +3,9 @@
 
 <div class="Product">
 	<div class="Product2">
-		<!-- <div class="Producttitle">
-			<h1>Product</h1>
-		</div> -->
 
 		<!--------------------------------------------------------------------------------------class="Productmenu pc" start-------------------------------------------------------------------------------------------------------------------->
 		<div class="Productmenu pc">
-
-			<!-- <div class="mkspace"></div> -->
 
 			<!------------------class="VSI Gyropactor pc" start------------------------>
 			<div class="NE200HBJ" id="NE200HBJ">
@@ -25,7 +20,6 @@
 
 					<div class="ytube">
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/lnyVPcNI66I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-						<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x-qY0m5xEsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 						<a href="https://youtu.be/lnyVPcNI66I" data-lity></a>
 					</div>
 
@@ -58,9 +52,6 @@
 
 					<h1>Jaw Crusher HF406</h1>
 					<h2>HF Extra-fine Jaw Crushers</h2>
-					<!-- <div class="video">
-						
-					</div> -->
 
 					<div class="overview_and_features">
 						<div class="title">
@@ -78,26 +69,15 @@
 						</p>
 					</div>
 
-					<!-- <div class="ytube">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/JGM_1vSScTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-						<a href="https://www.youtube.com/embed/JGM_1vSScTw" data-lity></a>
-					</div> -->
-
 					<div class="cata">
 						<h5>Catalog Product</h5>
 					</div>
 					<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_HF406.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
 					<div class="pic"><img src="./assets/Links/Main Pic.png" /></div>
-					<!-- <div class="pics">
-						<div class="pics1"><img data-lity src="./img/MSD700_blade_03_edit.jpg" /></div>
-						<div class="pics2"><img data-lity src="./img/MSD700_バックホー_w.jpg" /></div>
-						<div class="pics3"><img data-lity src="./img/MSD700_bucket_03_edit.jpg" /></div>
-						<div class="pics4"><img data-lity src="./img/MSD700_ダンプ_01_w.jpg" /></div>
-					</div> -->
 					<div class="spec">
 						<h5>Specification Table</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./assets/Links/Table HF406.png" /></div>
+					<div class="specimg"><img data-lity src="./assets/Links/hf406_catalog_en_20220608.jpg" /></div>
 				</div>
 			</div>
 			<!------------------class="Jaw Crusher HF406 pc" end------------------------>
@@ -145,9 +125,6 @@
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>Jaw Crusher HF406</h1>
 				<h2>HF Extra-fine Jaw Crushers</h2>
-				<!-- <h2>ブレードタイプ/バケットタイプ<br>
-					バックホウタイプ/ダンプタイプ<br>
-					現場の状況に合わせてカスタマイズ</h2> -->
 				<div class="overview_and_features_sp">
 					<div class="title">
 						<h5>Overview and Features</h5>
@@ -169,16 +146,10 @@
 				</div>
 				<div class="download"><a href="https://nakayamairon.com/vsi_expo_jakarta_2023/catalog/Flyer_HF406.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>Catalog Item</span></a></div>
 				<div class="pic"><img src="./assets/Links/Main Pic.png" /></div>
-				<!-- <div class="pics">
-					<div class="pics1"><img src="./img/MSD700_blade_03_edit.jpg" /></div>
-					<div class="pics2"><img src="./img/MSD700_バックホー_w.jpg" /></div>
-					<div class="pics3"><img src="./img/MSD700_bucket_03_edit.jpg" /></div>
-					<div class="pics4"><img src="./img/MSD700_ダンプ_01_w.jpg" /></div>
-				</div> -->
 				<div class="spec">
 					<h5>Specification Table</h5>
 				</div>
-				<div class="specimg"><img src="./assets/Links/Table HF406.png" /></div>
+				<div class="specimg"><img src="./assets/Links/hf406_catalog_en_20220608.jpg" /></div>
 
 			</div>
 			<!------------------class="Jaw Crusher HF406 sp" end------------------------>
@@ -187,7 +158,7 @@
 	</div>
 </div>
 
-<!-- <div class="mkspace"></div> -->
+
 <br>
 
 <div id="live">
@@ -203,5 +174,3 @@
 </div>
 
 <?php include("./footer.php"); ?>
-
-<!-- test git -->
